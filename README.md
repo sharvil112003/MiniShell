@@ -1,4 +1,4 @@
-[![progress-banner](https://backend.codecrafters.io/progress/shell/258ff38d-97a9-4f27-9038-e937d41a53ed)]
+![progress-banner](https://backend.codecrafters.io/progress/shell/258ff38d-97a9-4f27-9038-e937d41a53ed)
 # MiniShell
 A tiny, no-fuss shell with basic implementations for commands of the shell.
 
